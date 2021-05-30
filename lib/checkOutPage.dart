@@ -241,7 +241,7 @@ class ThankYouPage extends StatelessWidget {
         toolbarHeight: 75,
       ),
       body: Center(
-        child: Text("Thank you for placing order!", style: TextStyle(color: Colors.black, fontSize: 14),),
+        child: Text("Thank you for placing order!", style: TextStyle(color: Colors.black, fontSize: 18),),
       ),
     );
   }
